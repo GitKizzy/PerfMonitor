@@ -1,0 +1,6 @@
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\bin\Debug\PerfMonitor.exe.config
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\bin\Debug\PerfMonitor.exe
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\bin\Debug\PerfMonitor.pdb
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\obj\Debug\PerfMonitor.csprojResolveAssemblyReference.cache
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\obj\Debug\PerfMonitor.exe
+c:\users\kkc98_000\documents\visual studio 2013\Projects\PerfMonitor\PerfMonitor\obj\Debug\PerfMonitor.pdb
